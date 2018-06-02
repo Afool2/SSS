@@ -1,0 +1,11 @@
+C:\Users\Administrator.PC-201707021624\Desktop\StudentSignUpSystem\BLL\bin\Debug\BLL.dll
+C:\Users\Administrator.PC-201707021624\Desktop\StudentSignUpSystem\BLL\bin\Debug\BLL.pdb
+C:\Users\Administrator.PC-201707021624\Desktop\StudentSignUpSystem\BLL\bin\Debug\Common.dll
+C:\Users\Administrator.PC-201707021624\Desktop\StudentSignUpSystem\BLL\bin\Debug\DAL.dll
+C:\Users\Administrator.PC-201707021624\Desktop\StudentSignUpSystem\BLL\bin\Debug\Model.dll
+C:\Users\Administrator.PC-201707021624\Desktop\StudentSignUpSystem\BLL\bin\Debug\Common.pdb
+C:\Users\Administrator.PC-201707021624\Desktop\StudentSignUpSystem\BLL\bin\Debug\Model.pdb
+C:\Users\Administrator.PC-201707021624\Desktop\StudentSignUpSystem\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.PC-201707021624\Desktop\StudentSignUpSystem\BLL\obj\Debug\BLL.dll
+C:\Users\Administrator.PC-201707021624\Desktop\StudentSignUpSystem\BLL\obj\Debug\BLL.pdb
+C:\Users\Administrator.PC-201707021624\Desktop\StudentSignUpSystem\BLL\bin\Debug\DAL.pdb

@@ -1,0 +1,9 @@
+C:\Users\Administrator.PC-201707021624\Desktop\StudentSignUpSystem\DAL\bin\Debug\DAL.dll
+C:\Users\Administrator.PC-201707021624\Desktop\StudentSignUpSystem\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrator.PC-201707021624\Desktop\StudentSignUpSystem\DAL\bin\Debug\Common.dll
+C:\Users\Administrator.PC-201707021624\Desktop\StudentSignUpSystem\DAL\bin\Debug\Model.dll
+C:\Users\Administrator.PC-201707021624\Desktop\StudentSignUpSystem\DAL\bin\Debug\Common.pdb
+C:\Users\Administrator.PC-201707021624\Desktop\StudentSignUpSystem\DAL\bin\Debug\Model.pdb
+C:\Users\Administrator.PC-201707021624\Desktop\StudentSignUpSystem\DAL\obj\Debug\DAL.dll
+C:\Users\Administrator.PC-201707021624\Desktop\StudentSignUpSystem\DAL\obj\Debug\DAL.pdb
+C:\Users\Administrator.PC-201707021624\Desktop\StudentSignUpSystem\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache

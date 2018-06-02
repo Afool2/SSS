@@ -1,0 +1,5 @@
+C:\Users\Administrator.PC-201707021624\Desktop\StudentSignUpSystem\Common\bin\Debug\Common.dll
+C:\Users\Administrator.PC-201707021624\Desktop\StudentSignUpSystem\Common\bin\Debug\Common.pdb
+C:\Users\Administrator.PC-201707021624\Desktop\StudentSignUpSystem\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.PC-201707021624\Desktop\StudentSignUpSystem\Common\obj\Debug\Common.dll
+C:\Users\Administrator.PC-201707021624\Desktop\StudentSignUpSystem\Common\obj\Debug\Common.pdb
