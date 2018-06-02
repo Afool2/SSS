@@ -43,9 +43,13 @@ namespace Model
         /// 所注册的用户id
         /// </summary>
         public int UserID { get; set; }
+        /// <summary>
+        /// 注册（报名）时间
+        /// </summary>
+        public DateTime SignupTime { get; set; }
 
         /// <summary>
-        /// 构造方法
+        /// 有参构造方法
         /// </summary>
         /// <param name="studentName"></param>
         /// <param name="IdCardNumber"></param>
@@ -54,7 +58,8 @@ namespace Model
         /// <param name="signupMajor"></param>
         /// <param name="educationalBackground"></param>
         /// <param name="userID"></param>
-        public StudentSignUpInfo(string studentName, string IdCardNumber, int gender, DateTime birthday, string signupMajor, string educationalBackground, int userID)
+        /// <param name="signupTime"></param>
+        public StudentSignUpInfo(string studentName, string IdCardNumber, int gender, DateTime birthday, string signupMajor, string educationalBackground, int userID, DateTime signupTime)
         {
             this.StudentName = studentName;
             this.IDCardNumber = IdCardNumber;
@@ -63,6 +68,7 @@ namespace Model
             this.SignupMajor = signupMajor;
             this.EducationalBackground = educationalBackground;
             this.UserID = userID;
+            this.SignupTime = signupTime;
         }
     }
 }
