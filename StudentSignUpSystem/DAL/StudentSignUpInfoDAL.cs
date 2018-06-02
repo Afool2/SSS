@@ -18,7 +18,7 @@ namespace DAL
         /// 保存学生的报名信息
         /// </summary>
         /// <param name="ssi">学生报名信息对象</param>
-        /// <returns></returns>
+        /// <returns>返回受影响的行数</returns>
         public int SaveStudentSignUpInfo(StudentSignUpInfo ssi)
         {
             string sql = "insert into [tb_studentSignupInfo](studentName,IDCardNumber,gender,birthday,signupMajor,educationalBackground,userID,signupTime) values(@studentName,@IDCardNumber,@gender,@birthday,@signupMajor,@educationalBackground,@userID,@signupTime)";
@@ -36,6 +36,14 @@ namespace DAL
             return Common.SQLHelper.ExecuteNonQuery(sql, sp);
         }
 
-        public 
+        /// <summary>
+        /// 获取所有的学生报名信息
+        /// </summary>
+        /// <returns>DataSet,所有信息</returns>
+        public DataSet GetAllStudentSignUpInfo()
+        {
+            string sql = "select * from [tb_studentSignupInfo]";
+            return Common.SQLHelper.GetDataSet(sql);
+        }
     }
 }
