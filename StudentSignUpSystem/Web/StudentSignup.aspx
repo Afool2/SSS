@@ -33,7 +33,7 @@
                 <asp:ListItem Text="多媒体制作" Value="多媒体制作"></asp:ListItem>
                 <asp:ListItem Text="数控加工" Value="数控加工"></asp:ListItem>
             </asp:DropDownList>
-        
+            <asp:Button ID="Submit" runat="server" Text="提交" />
     </div>
     </form>
 </body>
