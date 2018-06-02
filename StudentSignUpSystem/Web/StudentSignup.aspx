@@ -1,5 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="StudentSignup.aspx.cs" Inherits="StudentSinup" %>
-
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="StudentSignup.aspx.cs" Inherits="StudentSignup" %>
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -10,7 +9,8 @@
 <body>
     <form id="form1" runat="server">
     <div>
-        欢迎 <%=Session["username"] %>
+        欢迎 [ <%=Session["username"] %> ] 
+        
     </div>
     </form>
 </body>

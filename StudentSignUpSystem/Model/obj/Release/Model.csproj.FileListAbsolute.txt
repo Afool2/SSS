@@ -2,3 +2,8 @@ C:\Users\Administrator.PC-201707021624\Desktop\StudentSignUpSystem\Model\bin\Rel
 C:\Users\Administrator.PC-201707021624\Desktop\StudentSignUpSystem\Model\bin\Release\Model.pdb
 C:\Users\Administrator.PC-201707021624\Desktop\StudentSignUpSystem\Model\obj\Release\Model.dll
 C:\Users\Administrator.PC-201707021624\Desktop\StudentSignUpSystem\Model\obj\Release\Model.pdb
+C:\Users\Administrator.PC-201707021624\Documents\GitHub\SSS\StudentSignUpSystem\Model\bin\Release\Model.dll
+C:\Users\Administrator.PC-201707021624\Documents\GitHub\SSS\StudentSignUpSystem\Model\bin\Release\Model.pdb
+C:\Users\Administrator.PC-201707021624\Documents\GitHub\SSS\StudentSignUpSystem\Model\obj\Release\Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.PC-201707021624\Documents\GitHub\SSS\StudentSignUpSystem\Model\obj\Release\Model.dll
+C:\Users\Administrator.PC-201707021624\Documents\GitHub\SSS\StudentSignUpSystem\Model\obj\Release\Model.pdb

@@ -36,7 +36,7 @@ public partial class LoginAndSignup : System.Web.UI.Page
         {
             Session["username"] = user.UserName;
            
-            Response.Redirect("StudentSinup.aspx");
+            Response.Redirect("StudentSignup.aspx");
         }
         else
         {
@@ -56,7 +56,7 @@ public partial class LoginAndSignup : System.Web.UI.Page
         if (userBll.CheckUserLogin(user))
         {
             Session["username"] = user.UserName;
-            Response.Redirect("StudentSinup.aspx");
+            Response.Redirect("StudentSignup.aspx");
         }
         else
         {

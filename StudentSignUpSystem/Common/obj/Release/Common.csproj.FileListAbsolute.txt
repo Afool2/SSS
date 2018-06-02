@@ -2,3 +2,8 @@ C:\Users\Administrator.PC-201707021624\Desktop\StudentSignUpSystem\Common\bin\Re
 C:\Users\Administrator.PC-201707021624\Desktop\StudentSignUpSystem\Common\bin\Release\Common.pdb
 C:\Users\Administrator.PC-201707021624\Desktop\StudentSignUpSystem\Common\obj\Release\Common.dll
 C:\Users\Administrator.PC-201707021624\Desktop\StudentSignUpSystem\Common\obj\Release\Common.pdb
+C:\Users\Administrator.PC-201707021624\Documents\GitHub\SSS\StudentSignUpSystem\Common\bin\Release\Common.dll
+C:\Users\Administrator.PC-201707021624\Documents\GitHub\SSS\StudentSignUpSystem\Common\bin\Release\Common.pdb
+C:\Users\Administrator.PC-201707021624\Documents\GitHub\SSS\StudentSignUpSystem\Common\obj\Release\Common.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.PC-201707021624\Documents\GitHub\SSS\StudentSignUpSystem\Common\obj\Release\Common.dll
+C:\Users\Administrator.PC-201707021624\Documents\GitHub\SSS\StudentSignUpSystem\Common\obj\Release\Common.pdb

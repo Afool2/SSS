@@ -9,3 +9,14 @@ C:\Users\Administrator.PC-201707021624\Desktop\StudentSignUpSystem\BLL\bin\Relea
 C:\Users\Administrator.PC-201707021624\Desktop\StudentSignUpSystem\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
 C:\Users\Administrator.PC-201707021624\Desktop\StudentSignUpSystem\BLL\obj\Release\BLL.dll
 C:\Users\Administrator.PC-201707021624\Desktop\StudentSignUpSystem\BLL\obj\Release\BLL.pdb
+C:\Users\Administrator.PC-201707021624\Documents\GitHub\SSS\StudentSignUpSystem\BLL\bin\Release\BLL.dll
+C:\Users\Administrator.PC-201707021624\Documents\GitHub\SSS\StudentSignUpSystem\BLL\bin\Release\BLL.pdb
+C:\Users\Administrator.PC-201707021624\Documents\GitHub\SSS\StudentSignUpSystem\BLL\bin\Release\Common.dll
+C:\Users\Administrator.PC-201707021624\Documents\GitHub\SSS\StudentSignUpSystem\BLL\bin\Release\DAL.dll
+C:\Users\Administrator.PC-201707021624\Documents\GitHub\SSS\StudentSignUpSystem\BLL\bin\Release\Model.dll
+C:\Users\Administrator.PC-201707021624\Documents\GitHub\SSS\StudentSignUpSystem\BLL\bin\Release\Common.pdb
+C:\Users\Administrator.PC-201707021624\Documents\GitHub\SSS\StudentSignUpSystem\BLL\bin\Release\DAL.pdb
+C:\Users\Administrator.PC-201707021624\Documents\GitHub\SSS\StudentSignUpSystem\BLL\bin\Release\Model.pdb
+C:\Users\Administrator.PC-201707021624\Documents\GitHub\SSS\StudentSignUpSystem\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.PC-201707021624\Documents\GitHub\SSS\StudentSignUpSystem\BLL\obj\Release\BLL.dll
+C:\Users\Administrator.PC-201707021624\Documents\GitHub\SSS\StudentSignUpSystem\BLL\obj\Release\BLL.pdb

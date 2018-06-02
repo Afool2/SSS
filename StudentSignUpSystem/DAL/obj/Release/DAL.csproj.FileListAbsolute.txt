@@ -7,3 +7,12 @@ C:\Users\Administrator.PC-201707021624\Desktop\StudentSignUpSystem\DAL\bin\Relea
 C:\Users\Administrator.PC-201707021624\Desktop\StudentSignUpSystem\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
 C:\Users\Administrator.PC-201707021624\Desktop\StudentSignUpSystem\DAL\obj\Release\DAL.dll
 C:\Users\Administrator.PC-201707021624\Desktop\StudentSignUpSystem\DAL\obj\Release\DAL.pdb
+C:\Users\Administrator.PC-201707021624\Documents\GitHub\SSS\StudentSignUpSystem\DAL\bin\Release\DAL.dll
+C:\Users\Administrator.PC-201707021624\Documents\GitHub\SSS\StudentSignUpSystem\DAL\bin\Release\DAL.pdb
+C:\Users\Administrator.PC-201707021624\Documents\GitHub\SSS\StudentSignUpSystem\DAL\bin\Release\Common.dll
+C:\Users\Administrator.PC-201707021624\Documents\GitHub\SSS\StudentSignUpSystem\DAL\bin\Release\Model.dll
+C:\Users\Administrator.PC-201707021624\Documents\GitHub\SSS\StudentSignUpSystem\DAL\bin\Release\Common.pdb
+C:\Users\Administrator.PC-201707021624\Documents\GitHub\SSS\StudentSignUpSystem\DAL\bin\Release\Model.pdb
+C:\Users\Administrator.PC-201707021624\Documents\GitHub\SSS\StudentSignUpSystem\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.PC-201707021624\Documents\GitHub\SSS\StudentSignUpSystem\DAL\obj\Release\DAL.dll
+C:\Users\Administrator.PC-201707021624\Documents\GitHub\SSS\StudentSignUpSystem\DAL\obj\Release\DAL.pdb
